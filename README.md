@@ -1,8 +1,8 @@
 # Cybersecurity & IT Portfolio
 
 - 👋 Hi, I’m @Rashedeen
-- 🌱 I’m currently learning infomation technology specializing in cybersecurity
-- 👀 Envisioning a life of a digital detective, i’m interested in Cybersecurity specifically
+- 🌱 I’m currently learning infomation technology
+- 👀 Envisioning a life of a digital detective, i’m interested in Cybersecurity
 - 💞️ I’m looking to collaborate on things related to my vision 
 - 📫 How to reach me
 - Email : rashidfirdaus077@gmail.com
