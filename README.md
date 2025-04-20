@@ -1,5 +1,3 @@
-# Cybersecurity & IT Portfolio
-
 - 👋 Hi, I’m @Rashedeen
 - 🌱 I’m currently learning infomation technology
 - 👀 Envisioning a life of a digital detective, i’m interested in Cybersecurity
