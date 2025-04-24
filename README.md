@@ -6,7 +6,7 @@
 - Email : rashidfirdaus077@gmail.com
 - linkedin :https://www.linkedin.com/in/abdurrashidfirdaus/
 
-[![Intro to Cybersecurity]()]([https://www.credly.com/badges/your-badge-1-link](https://www.credly.com/badges/a46536e6-a77b-4c92-8700-70eebe040fea/public_url))
+[![Intro to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking-Intro%20to%20Cybersecurity-blue?logo=cisco)]([https://www.credly.com/badges/your-badge-1-link](https://www.credly.com/badges/a46536e6-a77b-4c92-8700-70eebe040fea/public_url)) [![Cyberops Associate](https://img.shields.io/badge/Cisco%20Networking-Cyberops%20Associate-blue?logo=cisco)]([https://www.credly.com/badges/c6bb4641-bdc7-4089-aef3-d90c225aa161/public_url)
 
 Explore my projects to see my progress!
 <!---
