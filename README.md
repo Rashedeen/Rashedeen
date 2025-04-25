@@ -20,7 +20,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 | Vulnerabillity Assesment | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
 
 ## Certification and Training
-[![Intro to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking-Intro%20to%20Cybersecurity-blue?logo=cisco)]([https://www.credly.com/badges/your-badge-1-link](https://www.credly.com/badges/a46536e6-a77b-4c92-8700-70eebe040fea/public_url)) [![Cyberops Associate](https://img.shields.io/badge/Cisco%20Networking-Cyberops%20Associate-blue?logo=cisco)]([https://www.credly.com/badges/c6bb4641-bdc7-4089-aef3-d90c225aa161/public_url)
+[![Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-blue?logo=cisco)]([https://www.credly.com/badges/your-badge-1-link](https://www.credly.com/badges/a46536e6-a77b-4c92-8700-70eebe040fea/public_url)) [![Cyberops Associate](https://img.shields.io/badge/Cisco-Cyberops%20Associate-blue?logo=cisco)]([https://www.credly.com/badges/c6bb4641-bdc7-4089-aef3-d90c225aa161/public_url)
 <!---
 Rashedeen/Rashedeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
