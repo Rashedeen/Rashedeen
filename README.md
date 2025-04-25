@@ -16,7 +16,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Networking          | <a href="(https://github.com/Rashedeen/CIsco_Networking_Project">Cisco Networking</a>|
+| Networking                                    | <a href="(https://github.com/Rashedeen/CIsco_Networking_Project">Cisco Networking</a>|
 | SIEM Implementation and Log Analysis          | <a href="(https://github.com/Rashedeen/cisco_incident_response"></a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
