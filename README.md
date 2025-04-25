@@ -6,7 +6,6 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 
 [![Email](https://img.shields.io/badge/email-rashid%40firdaus077@gmail.com-blue?style=flat&logo=gmail)](mailto:rashidfirdaus077@gmail.com)
 
----
 ## Skills
 
 | Skill                                         | Associated Repositories         |
