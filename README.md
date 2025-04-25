@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a cybersecurity and networking enthusiast with a passi
 
 I am eager to contribute technical expertise, critical thinking, and a proactive mindset to the dynamic cybersecurity world.
 
-<a href="www.linkedin.com/in/abdurrashidfirdaus"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Email](https://img.shields.io/badge/email-rashid%40firdaus077@gmail.com-blue?style=flat&logo=gmail)](mailto:rashidfirdaus077@gmail.com)
 
 ---
 ## Skills
