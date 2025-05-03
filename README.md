@@ -16,7 +16,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Rashedeen/Tryhackme_Hackfinity_2025">Tryhackme Writeups</a>|
 | Incident Response Planning and Execution      |  <a href="https://github.com/Rashedeen/Remcos-RAT-Incident-Response">Incident Response Project</a>|
 | Scripting for Threat Mitigation | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/HTB_Apocalypse_2025_Thorins_Amulet.md">HTB Cyber Apocalypse 2025</a>|
-| Vulnerabillity Assesment | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
+| Penetration Testing | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
 
 ## Tools
 
