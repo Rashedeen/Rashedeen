@@ -18,8 +18,30 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 | Scripting for Threat Mitigation | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/HTB_Apocalypse_2025_Thorins_Amulet.md">HTB Cyber Apocalypse 2025</a>|
 | Vulnerabillity Assesment | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
 
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Onion-5A6378?&style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</div>
+
 ## Certifications and Training
-[![Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-blue?logo=cisco)]([https://www.credly.com/badges/your-badge-1-link](https://www.credly.com/badges/a46536e6-a77b-4c92-8700-70eebe040fea/public_url)) [![Cyberops Associate](https://img.shields.io/badge/Cisco-Cyberops%20Associate-blue?logo=cisco)]([https://www.credly.com/badges/c6bb4641-bdc7-4089-aef3-d90c225aa161/public_url)
+<img src="https://img.shields.io/badge/-Cisco%20CyberOps%20Associate-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Intro%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+
 <!---
 Rashedeen/Rashedeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
