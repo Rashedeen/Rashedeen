@@ -8,7 +8,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 
 ## Skills
 
-| Skill                                         | Associated Repositories         |
+| Skill                                         | Associated Project        |
 |-----------------------------------------------|----------------------------|
 | Networking                                    | <a href="https://github.com/Rashedeen/CIsco_Networking_Project">Cisco Networking</a>|
 | Linux Fundamentals                            | <a href="https://github.com/Rashedeen/Linux-Server-Project">Linux Project</a>|
