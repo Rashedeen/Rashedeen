@@ -6,6 +6,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 
 [![Email](https://img.shields.io/badge/email-rashid%40firdaus077@gmail.com-blue?style=flat&logo=gmail)](mailto:rashidfirdaus077@gmail.com)
 
+
 ## Skills
 
 | Skill                                         | Associated Project        |
@@ -17,6 +18,8 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 | Incident Response Planning and Execution      |  <a href="https://github.com/Rashedeen/Remcos-RAT-Incident-Response">Incident Response Project</a>|
 | Scripting for Threat Mitigation | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/HTB_Apocalypse_2025_Thorins_Amulet.md">HTB Cyber Apocalypse 2025</a>|
 | Penetration Testing | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
+
+## <a href="https://github.com/Rashedeen/CERTIFICATIONS">Click Me To Check Certifications</a>|
 
 ## Tools
 
@@ -38,7 +41,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
     <img src="https://img.shields.io/badge/-Security%20Onion-5A6378?&style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </div>
 
-## <a href="https://github.com/Rashedeen/CERTIFICATIONS">Certifications</a>|
+
 
 <!---
 Rashedeen/Rashedeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
