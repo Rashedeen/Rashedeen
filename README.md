@@ -19,7 +19,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 | Scripting for Threat Mitigation | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/HTB_Apocalypse_2025_Thorins_Amulet.md">HTB Cyber Apocalypse 2025</a>|
 | Penetration Testing | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
 
-## <a href="https://github.com/Rashedeen/CERTIFICATIONS">Click Me To Check Certifications</a>|
+## <a href="https://github.com/Rashedeen/CERTIFICATIONS">Click Me To Check Certifications</a>
 
 ## Tools
 
