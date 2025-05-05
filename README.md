@@ -38,9 +38,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
     <img src="https://img.shields.io/badge/-Security%20Onion-5A6378?&style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </div>
 
-## Certifications and Training
-<img src="https://img.shields.io/badge/-Cisco%20CyberOps%20Associate-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Intro%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+## <a href="https://github.com/Rashedeen/CERTIFICATIONS">Certifications</a>|
 
 <!---
 Rashedeen/Rashedeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
