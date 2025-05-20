@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdur Rashid Firdaus
 
-Welcome to my GitHub! I'm a cybersecurity and networking enthusiast with a passion for hands-on learning, digital defense, and information security. Strong foundational knowledge backed by Cisco Networking Academy cyberops associate program, and a passion for continuous learning through CTF challenges and real-world threat simulations. 
+Welcome to my GitHub! I'm a cybersecurity and networking enthusiast with a passion for hands-on learning, digital defense, and information security. Strong foundational knowledge backed by numerous cybersecurity program, and a passion for continuous learning through CTF challenges and real-world threat simulations. 
 
 I am eager to contribute technical expertise, critical thinking, and a proactive mindset to the dynamic cybersecurity world.
 
