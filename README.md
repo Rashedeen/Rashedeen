@@ -18,8 +18,15 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 | Incident Response Planning and Execution      |  <a href="https://github.com/Rashedeen/Remcos-RAT-Incident-Response">Incident Response Project</a>|
 | Scripting for Threat Mitigation | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/HTB_Apocalypse_2025_Thorins_Amulet.md">HTB Cyber Apocalypse 2025</a>|
 | Penetration Testing | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
+| Governance Risk and Compliance | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
+
 
 ## <a href="https://github.com/Rashedeen/CERTIFICATIONS">Click Me To Check Certifications</a>
+
+
+## Framework
+![ISO 27001](https://img.shields.io/badge/ISO-27001-blue?style=for-the-badge&logo=readthedocs&logoColor=white) ![NIST CSF](https://img.shields.io/badge/NIST-CSF-blueviolet?style=for-the-badge&logo=americanexpress&logoColor=white) ![CIS Controls v8](https://img.shields.io/badge/CIS-Controls%20v8-006400?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+
 
 ## Tools
 
