@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdur Rashid Firdaus
 
-Welcome to my GitHub! I'm a cybersecurity and networking enthusiast with a passion for hands-on learning, digital defense, and information security. Strong foundational knowledge backed by numerous cybersecurity program, and a passion for continuous learning through CTF challenges and real-world threat simulations. 
+Welcome to my GitHub! I'm an information security enthusiast. heres where i document my learning journey. 
 
 I am eager to contribute technical expertise, critical thinking, and a proactive mindset to the dynamic cybersecurity world.
 
@@ -18,7 +18,7 @@ I am eager to contribute technical expertise, critical thinking, and a proactive
 | Incident Response Planning and Execution      |  <a href="https://github.com/Rashedeen/Remcos-RAT-Incident-Response">Incident Response Project</a>|
 | Scripting for Threat Mitigation | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/HTB_Apocalypse_2025_Thorins_Amulet.md">HTB Cyber Apocalypse 2025</a>|
 | Penetration Testing | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
-| Governance Risk and Compliance | <a href="https://github.com/Rashedeen/HackTheBox/blob/main/HTB/Cap.md">HTB Lab</a>|
+| Governance Risk and Compliance | <a href="https://github.com/Rashedeen/ISO-27005-Risk-Management-Project.git">Risk Management Project</a>|
 
 
 ## <a href="https://github.com/Rashedeen/CERTIFICATIONS">Click Me To Check Certifications</a>
