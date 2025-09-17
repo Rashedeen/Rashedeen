@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdur Rashid Firdaus
 
-Welcome to my GitHub! I'm an information security enthusiast. heres where i document my learning journey. 
+Welcome to my GitHub! 
 
-I am eager to contribute technical expertise, critical thinking, and a proactive mindset to the dynamic cybersecurity world.
+as an information security enthusiast. heres where i document my learning journey. I am eager to contribute technical expertise, critical thinking, and a proactive mindset to the dynamic cybersecurity world.
 
 [![Email](https://img.shields.io/badge/email-rashid%40firdaus077@gmail.com-blue?style=flat&logo=gmail)](mailto:rashidfirdaus077@gmail.com)
 
