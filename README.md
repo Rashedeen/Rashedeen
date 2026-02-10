@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 
 
-as an information security enthusiast. heres where i document my learning journey. The journey include networking, operating systems basics, penetration testing, incident response, and governance risk compliance. 
+as an Information Technology enthusiast. heres where i document my learning journey. The journey include networking, operating systems basics, penetration testing, incident response, and governance risk compliance. 
 
 [![Email](https://img.shields.io/badge/email-rashid%40firdaus077@gmail.com-blue?style=flat&logo=gmail)](mailto:rashidfirdaus077@gmail.com)
 
